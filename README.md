@@ -12,7 +12,7 @@
 **Description**: Bhojpuri song collection on lahanga.  
 **Version**: `v1.0.0`  
 **Last Updated**: 2025-04-08  
-📥 [Download APK](apk/app1/Lehenga_Lahariya.apk)
+📥 [Download APK](apk/app1/lehenga_lahariya.apk)
 
 <p align="center">
   <img src="/apk/app1/app_icon.png" alt="Lehenga Lahariya Icon" width="130" style="border-radius: 15px;">
