@@ -4,8 +4,6 @@
 
 ---
 
-## 🚀 Apps Available for Download
-
 <table>
   <tr>
     <th>App</th>
