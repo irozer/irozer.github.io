@@ -15,9 +15,10 @@
 📥 [Download APK](apk/Lehenga_Lahariya.apk)
 
 <p align="center">
-  <img src="/apk/app1/app_icon.png" alt="Lehenga Lahariya Icon" width="150" style="border-radius: 15px;">
+  <img src="/apk/app1/app_icon.png" alt="Lehenga Lahariya Icon" width="130" style="border-radius: 15px;">
 </p>
 
+---
 ## 🛠 Features
 
 - 📦 Clean and open APK distribution  
