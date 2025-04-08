@@ -14,7 +14,9 @@
 **Last Updated**: 2025-04-08  
 📥 [Download APK](apk/Lehenga_Lahariya.apk)
 
----
+<p align="center">
+  <img src="/apk/app1/app_icon.png" alt="Lehenga Lahariya Icon" width="150" style="border-radius: 15px;">
+</p>
 
 ## 🛠 Features
 
