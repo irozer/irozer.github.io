@@ -4,24 +4,14 @@
 
 ---
 
-<table>
-  <tr>
-    <th>App</th>
-    <th>Description</th>
-    <th>Version</th>
-    <th>Last Update</th>
-    <th>Download</th>
-  </tr>
-  <tr>
-    <td><b>🔹 Lehenga Lahariya</b></td>
-    <td>Bhojpuri song collection on lahanga</td>
-    <td><code>v1.0.0</code></td>
-    <td>2025-04-08</td>
-    <td><a href="apk/Lehenga_Lahariya.apk"><b>📥 APK</b></a></td>
-  </tr>
-</table>
+## 🚀 Apps Available
 
----
+### 🔹 Lehenga Lahariya
+**Description**: Bhojpuri song collection on lahanga.  
+**Version**: `v1.0.0`  
+**Last Updated**: 2025-04-08  
+📥 [Download APK](apk/Lehenga_Lahariya.apk)
+
 
 ## 🛠 Features
 
