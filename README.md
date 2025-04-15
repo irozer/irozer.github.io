@@ -28,13 +28,14 @@
 
 ---
 
-## 💬 Contact Me
+## Contact Me
 
-📧 Email: [antidetro@gmail.com]  
-🐙 GitHub: [@irozer](https://github.com/irozer)
+📧 Email: [dildarmandal335@gmail.com]  
+
+GitHub: [@md-dildar-mandal](https://github.com/md-dildar-mandal)
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 All APKs are shared as-is. I am not responsible for any misuse or issues caused by these apps. Use them responsibly.
