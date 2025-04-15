@@ -130,6 +130,14 @@
   <h2>Apps Available</h2>
   
   <div class="app-card">
+    <h3>🔹 Task Yoda</h3>
+    <p><strong>Description</strong>: Yet another todo list app but  themed around yoda from Star Wars.</p>
+    <p><strong>Version</strong>: v1.0.0</p>
+    <p><strong>Last Updated</strong>: 2025-04-16</p>
+    <a href="/assets/apk/app2/Task Yoda.apk" class="download-btn">📥 Download APK</a>
+    <div style="text-align: center; margin-top: 20px;">
+      <img src="/assets/apk/app2/app_icon.png" alt="Lehenga Lahariya Icon" class="app-icon">
+    </div>
     <h3>🔹 Lehenga Lahariya</h3>
     <p><strong>Description</strong>: Bhojpuri song collection on lahanga.</p>
     <p><strong>Version</strong>: v1.0.0</p>
