@@ -130,6 +130,14 @@
   <h2>Apps Available</h2>
   
   <div class="app-card">
+    <h3>🔹 Foton</h3>
+    <p><strong>Description</strong>: A simple photo gallery app</p>
+    <p><strong>Version</strong>: v1.0.0</p>
+    <p><strong>Last Updated</strong>: 2025-04-29</p>
+    <a href="/assets/apk/app3/Foton.apk" class="download-btn">📥 Download APK</a>
+    <div style="text-align: center; margin-top: 20px;">
+      <img src="/assets/apk/app3/app_icon.png" alt="Foton Icon" class="app-icon">
+    </div>
     <h3>🔹 Task Yoda</h3>
     <p><strong>Description</strong>: Yet another todo list app but  themed around yoda from Star Wars.</p>
     <p><strong>Version</strong>: v1.0.0</p>
