@@ -21,8 +21,8 @@
     }
     
     .logo {
-      width: 150px;
-      height: 150px;
+      width: 90px;
+      height: 90px;
       border-radius: 50%;
       overflow: hidden;
       border: 3px solid #4a8cff;
