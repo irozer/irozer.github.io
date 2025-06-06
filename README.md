@@ -146,14 +146,6 @@
     <div style="text-align: center; margin-top: 20px;">
       <img src="/assets/apk/app2/app_icon.png" alt="Lehenga Lahariya Icon" class="app-icon">
     </div>
-    <h3>🔹 Lehenga Lahariya</h3>
-    <p><strong>Description</strong>: Bhojpuri song collection on lahanga.</p>
-    <p><strong>Version</strong>: v1.0.0</p>
-    <p><strong>Last Updated</strong>: 2025-04-08</p>
-    <a href="/assets/apk/app1/lehenga_lahariya.apk" class="download-btn">📥 Download APK</a>
-    <div style="text-align: center; margin-top: 20px;">
-      <img src="/assets/apk/app1/app_icon.png" alt="Lehenga Lahariya Icon" class="app-icon">
-    </div>
   </div>
   
   <hr class="divider">
