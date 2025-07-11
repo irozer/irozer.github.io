@@ -130,6 +130,14 @@
   <h2>Apps Available</h2>
   
   <div class="app-card">
+    <h3>🔹 Chat Connect</h3>
+    <p><strong>Description</strong>: Real time chatting app</p>
+    <p><strong>Version</strong>: v1.0.0</p>
+    <p><strong>Last Updated</strong>: 2025-07-10</p>
+    <a href="https://drive.google.com/file/d/1z-4F3SxYR01GfVbQFdCZAsSvvJbuwxJo/view?usp=drive_link" class="download-btn">📥 Download APK</a>
+    <div style="text-align: center; margin-top: 20px;">
+      <img src="/assets/apk/app5/app_icon.png" alt="chat Icon" class="app-icon">
+    </div>
     <h3>🔹 Your Weather</h3>
     <p><strong>Description</strong>: Weather app</p>
     <p><strong>Version</strong>: v1.0.0</p>
